@@ -1,0 +1,59 @@
+<br>
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h4 class="mb-4">Our Brands</h4>
+    </div>
+  </div>
+</div>
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <div class="cards-wrapper">
+        <div class="card" *ngFor="let brandId of brandIds">
+          <img [src]="getBrandById(brandId)?.image" class="card-img-top" alt="...">
+          <div class="card-body" style="text-align: center;">
+            <a href="#" class="btn">{{ getBrandById(brandId)?.title }}</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<br>
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h4 class="mb-4">Shop Products</h4>
+    </div>
+  </div>
+<div class="py-3 py-md-5 bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3" *ngFor="let productId of productIds">
+        <div class="product-card">
+          <div class="product-card-img">
+            <label class="stock bg-success" *ngIf="getProductById(productId)?.stock">In Stock</label>
+            <img [src]="getProductById(productId)?.image" alt="...">
+          </div>
+          <div class="product-card-body">
+            <p class="product-brand">{{ getProductById(productId)?.brand }}</p>
+            <h5 class="product-name">
+              <a href="">{{ getProductById(productId)?.name }}</a>
+            </h5>
+            <div>
+              <span class="selling-price">₹{{ getProductById(productId)?.sellingPrice }}</span>
+              <span class="original-price">₹{{ getProductById(productId)?.originalPrice }}</span>
+            </div>
+            <div class="mt-2">
+              <a href="" class="btn btn1">Add To Cart</a>
+              <a href="" class="btn btn1"> <i class="fa fa-heart"></i> </a>
+              <a href="" class="btn btn1"> View </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

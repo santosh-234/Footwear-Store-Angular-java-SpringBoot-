@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "title": "SPARX",
+      "image": "/assets/img/brands/brand1.png"
+    },
+    {
+      "id": 2,
+      "title": "ADIDAS",
+      "image": "/assets/img/brands/brand2.png"
+    },
+    {
+      "id": 3,
+      "title": "RED TAPE",
+      "image": "/assets/img/brands/brand3.png"
+    },
+    {
+      "id": 4,
+      "title": "PUMA",
+      "image": "/assets/img/brands/brand4.png"
+    },
+    {
+      "id": 5,
+      "title": "NIKE",
+      "image": "/assets/img/brands/brand5.png"
+    }
+  ]

@@ -1,0 +1,21 @@
+:host ::ng-deep body, :host ::ng-deep .row, :host ::ng-deep .col-md-9, :host ::ng-deep .col-lg-6, :host ::ng-deep .col-xl-5, :host ::ng-deep .form-outline, :host ::ng-deep .divider, :host ::ng-deep .btn-primary, :host ::ng-deep .form-check {
+    background-color: #11afa7 !important;
+  }
+  
+  :host ::ng-deep .divider:after, :host ::ng-deep .divider:before {
+    content: "";
+    flex: 1;
+    height: 1px;
+    background: #eee;
+  }
+  
+  :host ::ng-deep .h-custom {
+    height: calc(100% - 73px);
+  }
+  
+  @media (max-width: 450px) {
+    :host ::ng-deep .h-custom {
+      height: 100%;
+    }
+  }
+  

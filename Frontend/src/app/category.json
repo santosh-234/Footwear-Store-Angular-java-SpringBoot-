@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "title": "Sport Shoes",
+      "image": "/assets/img/category/category-1.png"
+    },
+    {
+      "id": 2,
+      "title": "Casual Shoes",
+      "image": "/assets/img/category/category-2.png"
+    },
+    {
+      "id": 3,
+      "title": "Sneakers",
+      "image": "/assets/img/category/category-3.png"
+    },
+    {
+      "id": 4,
+      "title": "Floaters",
+      "image": "/assets/img/category/category-4.png"
+    },
+    {
+      "id": 5,
+      "title": "Flip-Flops",
+      "image": "/assets/img/category/category-5.png"
+    },
+    {
+      "id": 6,
+      "title": "Sandals",
+      "image": "/assets/img/category/category-6.png"
+    },
+    {
+      "id": 7,
+      "title": "Slippers",
+      "image": "/assets/img/category/category-7.png"
+    }
+  ]
+  

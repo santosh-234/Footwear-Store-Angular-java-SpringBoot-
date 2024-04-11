@@ -1,0 +1,147 @@
+<br>
+<br>
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h4 class="mb-4">Available Brands</h4>
+    </div>
+  </div>
+</div>
+<div class="second-navbar bg-light">
+  <div class="container">
+    <ul class="nav justify-content-center">
+      <li class="nav-item">
+        <div class="card card-hover p-3 h-75">
+          <img
+            src="../../assets/img/brands/brand1.png"
+            class="card-img-top"
+            alt="Image 1"
+          />
+          <div class="card-body">
+            <h5 class="card-title">SPARX</h5>
+            <br />
+            <p class="card-text">UPTO 20% OFF</p>
+          </div>
+        </div>
+      </li>
+      <!-- Add more li items with card content -->
+      <li class="nav-item">
+        <div class="card card-hover p-3 h-75">
+          <img
+            src="../../assets/img/brands/brand5.png"
+            class="card-img-top"
+            alt="Image 2"
+          />
+          <div class="card-body">
+            <h5 class="card-title">NIKE</h5>
+            <br />
+            <p class="card-text">UPTO 25% OFF</p>
+          </div>
+        </div>
+      </li>
+
+      <li class="nav-item">
+        <div class="card card-hover p-3 h-75">
+          <img
+            src="../../assets/img/brands/brand2.png"
+            alt="Image 2"
+          />
+          <div class="card-body">
+            <h5 class="card-title">ADIDAS</h5>
+            <br />
+            <p class="card-text">UPTO 15% OFF</p>
+          </div>
+        </div>
+      </li>
+
+      <li class="nav-item">
+        <div class="card card-hover p-3 h-75">
+          <img
+            src="../../assets/img/brands/brand3.png"
+            class="card-img-top "
+            alt="Image 2"
+          />
+          <div class="card-body">
+            <h5 class="card-title">RED TAPE</h5>
+            <br />
+            <p class="card-text">UPTO 18% OFF</p>
+          </div>
+        </div>
+      </li>
+      <li class="nav-item">
+        <div class="card card-hover p-3 h-75">
+          <img
+            src="../../assets/img/brands/brand4.png"
+            class="card-img-top"
+            alt="Image 2"
+          />
+          <div class="card-body">
+            <h5 class="card-title">PUMA</h5>
+            <br />
+            <p class="card-text">UPTO 20% OFF</p>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<br>
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h4 class="mb-4">Shop By Categories</h4>
+    </div>
+  </div>
+</div>
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <div class="cards-wrapper">
+        <div class="card" *ngFor="let categoryId of categoryIds">
+          <img [src]="getCategoryById(categoryId)?.image" class="card-img-top" alt="...">
+          <div class="card-body">
+            <h5 class="card-title">{{ getCategoryById(categoryId)?.title }}</h5>
+            <a href="#" class="btn">Buy Now</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="py-3 py-md-5 bg-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h4 class="mb-4">Trending Products</h4>
+      </div>
+      <div class="col-md-3" *ngFor="let productId of trendProductIds">
+        <div class="product-card">
+          <div class="product-card-img">
+            <label class="stock bg-success" *ngIf="getTrendProductById(productId)?.stock">In Stock</label>
+            <img [src]="getTrendProductById(productId)?.image" [alt]="getTrendProductById(productId)?.name" />
+          </div>
+          <div class="product-card-body">
+            <p class="product-brand">{{ getTrendProductById(productId)?.brand }}</p>
+            <h5 class="product-name">
+              <a href="">{{ getTrendProductById(productId)?.name }}</a>
+            </h5>
+            <div>
+              <span class="selling-price">₹{{ getTrendProductById(productId)?.sellingPrice }}</span>
+              <span class="original-price">₹{{ getTrendProductById(productId)?.originalPrice }}</span>
+            </div>
+            <div class="mt-2">
+              <a href="" class="btn btn1">Add To Cart</a>
+              <a href="" class="btn btn1"> <i class="fa fa-heart"></i> </a>
+              <a href="" class="btn btn1"> View </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+

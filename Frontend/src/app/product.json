@@ -1,0 +1,319 @@
+[
+    {
+      "id": 1,
+      "brand": "SPARX",
+      "name": "Running shoes for men",
+      "image": "/assets/img/products/product1.png",
+      "sellingPrice": 2024,
+      "originalPrice": 2249,
+      "stock": true
+    },
+    {
+      "id": 2,
+      "brand": "ADIDAS",
+      "name": "Ford-Fwd Running Shoes For Men",
+      "image": "/assets/img/products/product2.png",
+      "sellingPrice": 2579,
+      "originalPrice": 5999,
+      "stock": true
+    },
+    {
+      "id": 3,
+      "brand": "RED TAPE",
+      "name": "Walking Sports Shoes for Men",
+      "image": "/assets/img/products/product3.png",
+      "sellingPrice": 1649,
+      "originalPrice": 3899,
+      "stock": true
+    },
+    {
+      "id": 4,
+      "brand": "PUMA",
+      "name": "Reflect Lite Trail Running Shoes For Men",
+      "image": "/assets/img/products/product4.png",
+      "sellingPrice": 3009,
+      "originalPrice": 6099,
+      "stock": true
+    },
+    {
+      "id": 5,
+      "brand": "NIKE",
+      "name": "Quest 5 Training & Gym Shoes For Men",
+      "image": "/assets/img/products/product5.png",
+      "sellingPrice": 6295,
+      "originalPrice": 8999,
+      "stock": true
+    },
+    {
+      "id": 6,
+      "brand": "SPARX",
+      "name": "SM 897 Sneakers For Men",
+      "image": "/assets/img/products/product6.png",
+      "sellingPrice": 899,
+      "originalPrice": 999,
+      "stock": true
+    },
+    {
+      "id": 7,
+      "brand": "ADIDAS",
+      "name": "TENSUAR M1 Sneakers For Men",
+      "image": "/assets/img/products/product7.png",
+      "sellingPrice": 2199,
+      "originalPrice": 3199,
+      "stock": true
+    },
+    {
+      "id": 8,
+      "brand": "RED TAPE",
+      "name": "Casual Lifestyle Shoes for Men",
+      "image": "/assets/img/products/product8.png",
+      "sellingPrice": 1179,
+      "originalPrice": 5899,
+      "stock": true
+    },
+    {
+      "id": 9,
+      "brand": "PUMA",
+      "name": "Rungryp Sneakers For Men",
+      "image": "/assets/img/products/product9.png",
+      "sellingPrice": 2149,
+      "originalPrice": 4999,
+      "stock": true
+    },
+    {
+      "id": 10,
+      "brand": "NIKE",
+      "name": "Waffle Debut SE Sneakers For Men",
+      "image": "/assets/img/products/product10.png",
+      "sellingPrice": 4400,
+      "originalPrice": 5990,
+      "stock": true
+    },
+    {
+      "id": 11,
+      "brand": "PUMA",
+      "name": "re schooltream Lo Retro Sneakers For Men",
+      "image": "/assets/img/products/product11.png",
+      "sellingPrice": 4200,
+      "originalPrice": 8900,
+      "stock": true
+    },
+    {
+      "id": 12,
+      "brand": "ADIDAS",
+      "name": "GRAND COURT BASE 3.0 M Sneakers For Men",
+      "image": "/assets/img/products/product12.png",
+      "sellingPrice": 3100,
+      "originalPrice": 6599,
+      "stock": true
+    },
+    {
+      "id": 13,
+      "brand": "RED TAPE",
+      "name": "Casual Sneaker Shoes for Men",
+      "image": "/assets/img/products/product13.png",
+      "sellingPrice": 1179,
+      "originalPrice": 3890,
+      "stock": true
+    },
+    {
+      "id": 14,
+      "brand": "PUMA",
+      "name": "Rebound JOY High Tops For Men",
+      "image": "/assets/img/products/product14.png",
+      "sellingPrice": 3359,
+      "originalPrice": 6753,
+      "stock": true
+    },
+    {
+      "id": 15,
+      "brand": "NIKE",
+      "name": "Air Pegasus '89 Sneakers For Men",
+      "image": "/assets/img/products/product15.png",
+      "sellingPrice": 8653,
+      "originalPrice": 12672,
+      "stock": true
+    },
+    {
+      "id": 16,
+      "brand": "SPARX",
+      "name": "Men Black, Blue Sandal",
+      "image": "/assets/img/products/product16.png",
+      "sellingPrice": 556,
+      "originalPrice": 999,
+      "stock": true
+    },
+    {
+      "id": 17,
+      "brand": "ADIDAS",
+      "name": "Men SUB AVIOR M Grey Sports Sandal",
+      "image": "/assets/img/products/product17.png",
+      "sellingPrice": 1799,
+      "originalPrice": 2511,
+      "stock": true
+    },
+    {
+      "id": 18,
+      "brand": "RED TAPE",
+      "name": "Men Off White Clogs Sandal",
+      "image": "/assets/img/products/product18.png",
+      "sellingPrice": 567,
+      "originalPrice": 2435,
+      "stock": true
+    },
+    {
+      "id": 19,
+      "brand": "PUMA",
+      "name": "Men Ultimate comfort Green Sports Sandal",
+      "image": "/assets/img/products/product19.png",
+      "sellingPrice": 1599,
+      "originalPrice": 2290,
+      "stock": true
+    },
+    {
+      "id": 20,
+      "brand": "NIKE",
+      "name": "Men Canyon Black Sandal",
+      "image": "/assets/img/products/product20.png",
+      "sellingPrice": 6295,
+      "originalPrice": 10253,
+      "stock": true
+    },
+    {
+      "id": 21,
+      "brand": "SPARX",
+      "name": "Men Slides",
+      "image": "/assets/img/products/product21.png",
+      "sellingPrice": 599,
+      "originalPrice": 976,
+      "stock": true
+    },
+    {
+      "id": 22,
+      "brand": "ADIDAS",
+      "name": "ADILETTE COMFORT Men Slides",
+      "image": "/assets/img/products/product22.png",
+      "sellingPrice": 1679,
+      "originalPrice": 3999,
+      "stock": true
+    },
+    {
+      "id": 23,
+      "brand": "RED TAPE",
+      "name": "Men Slides",
+      "image": "/assets/img/products/product23.png",
+      "sellingPrice": 409,
+      "originalPrice": 762,
+      "stock": true
+    },
+    {
+      "id": 24,
+      "brand": "PUMA",
+      "name": "Men Slides",
+      "image": "/assets/img/products/product24.png",
+      "sellingPrice": 1149,
+      "originalPrice": 3299,
+      "stock": true
+    },
+    {
+      "id": 25,
+      "brand": "NIKE",
+      "name": "Offcourt Men Slides",
+      "image": "/assets/img/products/product25.png",
+      "sellingPrice": 2495,
+      "originalPrice": 3232,
+      "stock": true
+    },
+    {
+      "id": 26,
+      "brand": "SPARX",
+      "name": "Men Blue, Grey Sandal",
+      "image": "/assets/img/products/product26.png",
+      "sellingPrice": 799,
+      "originalPrice": 999,
+      "stock": true
+    },
+    {
+      "id": 27,
+      "brand": "ADIDAS",
+      "name": "Men MECHAN M Red Sandal",
+      "image": "/assets/img/products/product27.png",
+      "sellingPrice": 1589,
+      "originalPrice": 3244,
+      "stock": true
+    },
+    {
+      "id": 28,
+      "brand": "ADIDAS",
+      "name": "Men ALPINOZ M Grey Sandal",
+      "image": "/assets/img/products/product28.png",
+      "sellingPrice": 1436,
+      "originalPrice": 2999,
+      "stock": true
+    },
+    {
+      "id": 29,
+      "brand": "PUMA",
+      "name": "Men Blitz Black Sandal",
+      "image": "/assets/img/products/product29.png",
+      "sellingPrice": 1799,
+      "originalPrice": 3199,
+      "stock": true
+    },
+    {
+      "id": 30,
+      "brand": "NIKE",
+      "name": "Men Oneonta Black Sports Sandal",
+      "image": "/assets/img/products/product30.png",
+      "sellingPrice": 2789,
+      "originalPrice": 4288,
+      "stock": true
+    },
+    {
+      "id": 31,
+      "brand": "SPARX",
+      "name": "Men Flip Flops ",
+      "image": "/assets/img/products/product31.png",
+      "sellingPrice": 349,
+      "originalPrice": 599,
+      "stock": true
+    },
+    {
+      "id": 32,
+      "brand": "ADIDAS",
+      "name": "EEZAY FLIP FLOP Men Flip Flops",
+      "image": "/assets/img/products/product32.png",
+      "sellingPrice": 950,
+      "originalPrice": 2959,
+      "stock": true
+    },
+    {
+      "id": 33,
+      "brand": "RED TAPE",
+      "name": "Men Slippers",
+      "image": "/assets/img/products/product33.png",
+      "sellingPrice": 799,
+      "originalPrice": 1299,
+      "stock": true
+    },
+    {
+      "id": 34,
+      "brand": "PUMA",
+      "name": "EVK3417G Stylish Casual Men Slippers",
+      "image": "/assets/img/products/product34.png",
+      "sellingPrice": 1589,
+      "originalPrice": 2367,
+      "stock": true
+    },
+    {
+      "id": 35,
+      "brand": "NIKE",
+      "name": "Victori One Men Slides ",
+      "image": "/assets/img/products/product35.png",
+      "sellingPrice": 1695,
+      "originalPrice": 2541,
+      "stock": true
+    }
+
+  ]
+  
