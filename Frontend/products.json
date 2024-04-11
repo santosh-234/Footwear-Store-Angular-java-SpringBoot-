@@ -1,0 +1,228 @@
+[
+    {
+      "id": 2,
+      "brand": "LIVEASY",
+      "name": "Everherb Ashwagandha Immunity",
+      "image": "/assets/img/products/product1.png",
+      "sellingPrice": 195.91,
+      "originalPrice": 399.00,
+      "stock": true
+    },
+    {
+      "id": 1,
+      "brand": "LIVEASY",
+      "name": "Aloe Vera Juice",
+      "image": "/assets/img/products/product2.png",
+      "sellingPrice": 288.55,
+      "originalPrice": 349.98,
+      "stock": true
+    },
+    {
+      "id": 3,
+      "brand": "LIVEASY",
+      "name": "Fish Oil 1000MG",
+      "image": "/assets/img/products/product3.png",
+      "sellingPrice": 279.30,
+      "originalPrice": 399.00,
+      "stock": true
+    },
+    {
+      "id": 4,
+      "brand": "LIVEASY",
+      "name": "Cotton Crepe Bandage",
+      "image": "/assets/img/products/product4.png",
+      "sellingPrice": 131.51,
+      "originalPrice": 155.00,
+      "stock": true
+    },
+    {
+      "id": 5,
+      "brand": "SENSODYNE",
+      "name": "Sensodyne Sensitive Repair",
+      "image": "/assets/img/products/product5.png",
+      "sellingPrice": 232.75,
+      "originalPrice": 245.00,
+      "stock": true
+    },
+    {
+      "id": 6,
+      "brand": "STAYFREE",
+      "name": "StayFree Secure",
+      "image": "/assets/img/products/product6.png",
+      "sellingPrice": 122.76,
+      "originalPrice": 124.00,
+      "stock": true
+    },
+    {
+      "id": 7,
+      "brand": "SCALPE",
+      "name": "Scalpe Plus AntiDandruff Shampoo",
+      "image": "/assets/img/products/product7.png",
+      "sellingPrice": 275.85,
+      "originalPrice": 306.50,
+      "stock": true
+    },
+    {
+      "id": 8,
+      "brand": "REVITAL",
+      "name": "Revital H Men MultiVitamin",
+      "image": "/assets/img/products/product8.png",
+      "sellingPrice": 285.20,
+      "originalPrice": 310.00,
+      "stock": true
+    },
+    {
+      "id": 9,
+      "brand": "DABUR",
+      "name": "Chyanprakash SugarFree",
+      "image": "/assets/img/products/product9.png",
+      "sellingPrice": 227.85,
+      "originalPrice": 245.00,
+      "stock": true
+    },
+    {
+      "id": 10,
+      "brand": "B-PROTIN",
+      "name": "Chocolate Nutrition Supplement",
+      "image": "/assets/img/products/product10.png",
+      "sellingPrice": 569.25,
+      "originalPrice": 575.00,
+      "stock": true
+    },
+    {
+      "id": 11,
+      "brand": "PROTINEX",
+      "name": "Nutritional Drink Mix",
+      "image": "/assets/img/products/product11.png",
+      "sellingPrice": 607.50,
+      "originalPrice": 675.00,
+      "stock": true
+    },
+    {
+      "id": 12,
+      "brand": "ENSURE",
+      "name": "Chocolate Drink Mix 400G",
+      "image": "/assets/img/products/product12.png",
+      "sellingPrice": 831.60,
+      "originalPrice": 840.00,
+      "stock": true
+    },
+    {
+      "id": 13,
+      "brand": "AHAGLOW",
+      "name": "Ahaglow Advanced Face Wash",
+      "image": "/assets/img/products/product13.png",
+      "sellingPrice": 476.68,
+      "originalPrice": 520.65,
+      "stock": true
+    },
+    {
+      "id": 14,
+      "brand": "HIMALAYA",
+      "name": "Neem Face Wash 150ML",
+      "image": "/assets/img/products/product14.png",
+      "sellingPrice": 204.75,
+      "originalPrice": 225.00,
+      "stock": true
+    },
+    {
+      "id": 15,
+      "brand": "HIMALAYA",
+      "name": "Neem & Turmeric Soap",
+      "image": "/assets/img/products/product15.png",
+      "sellingPrice": 52.48,
+      "originalPrice": 64.00,
+      "stock": true
+    },
+    {
+      "id": 16,
+      "brand": "VEET",
+      "name": "Hair Removal For Women",
+      "image": "/assets/img/products/product16.png",
+      "sellingPrice": 83.65,
+      "originalPrice": 89.00,
+      "stock": true
+    },
+    {
+      "id": 17,
+      "brand": "NIVEA",
+      "name": "Cocoa Nourish Body Lotion",
+      "image": "/assets/img/products/product17.png",
+      "sellingPrice": 445.50,
+      "originalPrice": 550.00,
+      "stock": true
+    },
+    {
+      "id": 18,
+      "brand": "LIVEASY",
+      "name": "Baby Care Baby Lotion",
+      "image": "/assets/img/products/product18.png",
+      "sellingPrice": 135.30,
+      "originalPrice": 159.00,
+      "stock": true
+    },
+    {
+      "id": 19,
+      "brand": "PREGA NEWS",
+      "name": "Pregnancy Test Kit",
+      "image": "/assets/img/products/product19.png",
+      "sellingPrice": 54.00,
+      "originalPrice": 60.00,
+      "stock": true
+    },
+    {
+      "id": 20,
+      "brand": "LIVEASY",
+      "name": "Baby Care Baby Shampoo",
+      "image": "/assets/img/products/product20.png",
+      "sellingPrice": 100.30,
+      "originalPrice": 170.00,
+      "stock": true
+    },
+    {
+      "id": 21,
+      "brand": "CETZINE",
+      "name": "Cetzine Cold Stripe",
+      "image": "/assets/img/products/product21.png",
+      "sellingPrice": 34.00,
+      "originalPrice": 39.54,
+      "stock": true
+    },
+    {
+      "id": 22,
+      "brand": "CALCIMAX",
+      "name": "Calcimax Forte Plus",
+      "image": "/assets/img/products/product22.png",
+      "sellingPrice": 195.00,
+      "originalPrice": 199.00,
+      "stock": true
+    },
+    {
+      "id": 23,
+      "brand": "DETTOL",
+      "name": "Antiseptic Liquid 500ML",
+      "image": "/assets/img/products/product23.png",
+      "sellingPrice": 92.15,
+      "originalPrice": 99.00,
+      "stock": true
+    },
+    {
+      "id": 24,
+      "brand": "NESTLE",
+      "name": "Cerelac Fortified Baby Cereal",
+      "image": "/assets/img/products/product24.png",
+      "sellingPrice": 85.00,
+      "originalPrice": 95.00,
+      "stock": true
+    },
+    {
+      "id": 25,
+      "brand": "DETTOL",
+      "name": "Original Handwash",
+      "image": "/assets/img/products/product25.png",
+      "sellingPrice": 82.80,
+      "originalPrice": 90.00,
+      "stock": true
+    }
+  ]
+  
